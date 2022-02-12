@@ -1,0 +1,29 @@
+.heading {
+font-size: 25px;
+width: 100%;
+margin: 0px;
+color: #b030e3;
+}
+
+.note {
+font-size: 20px;
+color: #fc036b;
+}
+
+.div_speed {
+float: right;
+}
+
+.div_volume {
+float: left;
+}
+
+#speed {
+font-size: 23px;
+margin:15px;
+}
+
+#volume {
+font-size: 23px;
+margin:15px;
+}
